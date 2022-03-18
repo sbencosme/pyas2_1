@@ -1,0 +1,60 @@
+--===============2125725466==
+Content-Type: multipart/report; report-type="disposition-notification"; boundary="===============1564688216=="
+MIME-Version: 1.0
+
+--===============1564688216==
+Content-Type: text/plain
+Content-Transfer-Encoding: 7bit
+
+The AS2 message could not be processed. The disposition-notification report has additional details.
+
+--===============1564688216==
+Content-Type: message/disposition-notification
+Content-Transfer-Encoding: 7bit
+
+Reporting-UA: pyAS2 Open Source AS2 Software
+Original-Recipient: rfc822; p1as2
+Final-Recipient: rfc822; p1as2
+Original-Message-ID: <164720375948.14704.1404618561169524615@SBENCOSME-LT.EDR.local>
+Disposition: automatic-action/MDN-sent-automatically; processed/Error: authentication-failed
+
+--===============1564688216==--
+
+--===============2125725466==
+Content-Type: application/pkcs7-signature; name="smime.p7s"; smime-type="signed-data"
+Content-Disposition: attachment; filename="smime.p7s"
+Content-Transfer-Encoding: base64
+
+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
+rlC7mirIbvQJzBoLvQI9Hw==
+
+--===============2125725466==--
